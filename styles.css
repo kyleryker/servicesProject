@@ -1,0 +1,14 @@
+.quoteSection{
+  background-color: lightblue;
+  color: midnightblue ;
+  border: 3px solid blue;
+  margin: 6px;
+}
+.deleteButton{
+  background-color: red;
+  font-weight: bold;
+  border-radius: 20%;
+}
+.body{
+  background-color: lightgray;
+}
